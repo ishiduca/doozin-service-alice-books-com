@@ -1,0 +1,25 @@
+{
+  "name": "@ishiduca/doozin-service-alice-books-com",
+  "version": "0.0.1",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishiduca/doozin-service-alice-books-com.git"
+  },
+  "author": "ishiduca@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishiduca/doozin-service-alice-books-com/issues"
+  },
+  "homepage": "https://github.com/ishiduca/doozin-service-alice-books-com#readme",
+  "dependencies": {
+    "@ishiduca/doozin-service": "git+https://github.com/ishiduca/doozin-service.git",
+    "inherits": "^2.0.4",
+    "trumpet": "^1.7.2",
+    "urlencode": "^1.1.0"
+  }
+}
